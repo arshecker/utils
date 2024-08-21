@@ -1,0 +1,8 @@
+github.com/arshecker/utils v1.1.0 h1:AtYo9Ev5+oVeKQbw7N0UyxzqVhwXzn9wR2jh1T/OMxc=
+github.com/arshecker/utils v1.1.0/go.mod h1:mSK5gKkP+YLiY1SZH7CT1Njv+c++UUi0g6YhsUGzhOw=
+github.com/arshecker/utils/v2 v2.0.0 h1:BLAj/E/uZ+u3NnCK2APEP/GhBHE8zxGTFZuaJ8PDWVA=
+github.com/arshecker/utils/v2 v2.0.0/go.mod h1:zpDS84dByOrDJtw97+eBja4OKClu0LUQDRrEnZuRCGs=
+github.com/arshecker/utils/v3 v3.0.0 h1:E9Ox8pFoXIcLADHrFUnFPGu3IZFsEi0+sEcFUnAJA5w=
+github.com/arshecker/utils/v3 v3.0.0/go.mod h1:RV0DtT/pJUf9mtxSkYn2IlTA74H0ZCbyCB5UOU2g4sw=
+github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
+github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
