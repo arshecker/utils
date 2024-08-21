@@ -1,4 +1,3 @@
-
 package utils
 
 func Contains(a []string, x string) bool {
